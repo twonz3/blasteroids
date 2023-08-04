@@ -1,5 +1,5 @@
 # BLASTEROIDS
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://youtu.be/HaC8Gkeeurc
 #### Description: A simple asteroid shooting game written in Lua on the LÖVE framework.
 
 <br>
@@ -72,7 +72,6 @@ Pressing the assigned key (by default, the backwards apostrophe above the "tab" 
 <br>
 
 # Credits
-All original project content is copyright (c) 2023 Anton Ziajka.
 
 LOVE is copyright (c) 2006-2023 LOVE Development Team. See [licensing information](https://github.com/love2d/love/blob/main/license.txt).
 

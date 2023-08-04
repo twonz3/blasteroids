@@ -90,7 +90,7 @@ function HUD:drawMenu()
     love.graphics.setNewFont(fontSizeXLarge)
     love.graphics.printf("BLASTEROIDS", 0, titleY, W, "center")
     love.graphics.setNewFont(fontSizeLarge)
-    love.graphics.printf("An Asteroid Shooting Game (for CS50)", 0, titleY + 2*fontSizeXLarge, W, "center")
+    love.graphics.printf("An Asteroid Shooting Game for CS50", 0, titleY + 2*fontSizeXLarge, W, "center")
 
     love.graphics.setNewFont(fontSizeMedium)
     love.graphics.printf(
